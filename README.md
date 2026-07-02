@@ -55,17 +55,6 @@
 
 ---
 
-## 🏆 LeetCode Achievements
-
-✅ 341+ Problems Solved
-
-🔥 41 Days Maximum Streak
-
-📅 268 Active Days
-
-🏅 100 Days Badge 2026
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Nunito&ext=heatmap)
 
 ---
 
