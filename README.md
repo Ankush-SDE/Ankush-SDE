@@ -58,19 +58,7 @@
 
 ---
 
-## 📂 Featured Projects
 
-### 🎓 Student Registration Portal
-HTML & CSS based registration system.
-
-### 🧮 Calculator App
-Built using HTML, CSS and JavaScript.
-
-### 🏏 Cricket Game
-Interactive JavaScript game.
-
-### 📚 DSA Solutions
-Collection of LeetCode and Coding Problems.
 
 ---
 
