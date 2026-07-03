@@ -64,9 +64,9 @@
 
 ## 🌐 Connect With Me
 
-💼 LinkedIn: Your LinkedIn URL
+💼 LinkedIn: https://www.linkedin.com/feed/
 
-📧 Email: your-email@gmail.com
+📧 Email:ankush1524kumar@gmail.com
 
 💻 GitHub: https://github.com/Ankush-SDE
 
