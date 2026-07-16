@@ -102,12 +102,15 @@
 
 # 📊 GitHub Analytics
 
-<p align="center">
+<!-- <p align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ankush-SDE&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankush-SDE&layout=compact&theme=tokyonight&hide_border=true"/>
 
+</p> -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankush-SDE&theme=tokyo-night"/>
 </p>
 
 <p align="center">
@@ -138,16 +141,7 @@
 
 ---
 
-# 🚀 Featured Projects
 
-| Project | Tech Stack |
-|----------|------------|
-| 🌦 Weather App | HTML, CSS, JavaScript, API |
-| 📚 Student Management System | Node.js, Express.js, MongoDB |
-| 📝 Notes App | MERN Stack |
-| 🛒 E-Commerce Website | React, Node.js, MongoDB |
-
----
 
 # 🌍 Connect With Me
 
