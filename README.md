@@ -102,16 +102,13 @@
 
 # 📊 GitHub Analytics
 
-<!-- <p align="center">
+<p align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ankush-SDE&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankush-SDE&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p> -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankush-SDE&theme=tokyo-night"/>
-</p>
+</p> 
 
 <p align="center">
 
