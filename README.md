@@ -24,7 +24,7 @@
 
 ☕ Strong in Java, Data Structures & Algorithms
 
-🔥 Solved **341+ Problems** on LeetCode
+🔥 Solved **415+ Problems** on LeetCode
 
 🏆 Earned **100 Days Badge (2026)**
 
