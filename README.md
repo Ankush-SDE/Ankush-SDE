@@ -89,7 +89,7 @@
 <p align="center">
 
 <a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-341%2B%20Solved-orange?style=for-the-badge&logo=leetcode"/>
+<img src="https://img.shields.io/badge/LeetCode-415%2B%20Solved-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
 <a href="https://github.com/Ankush-SDE">
