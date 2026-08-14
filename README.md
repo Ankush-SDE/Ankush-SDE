@@ -148,7 +148,7 @@
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/ankush-kumar-156124354/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
