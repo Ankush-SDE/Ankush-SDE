@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ankush Kumar</h1>
 
-<h3 align="center">
+<h4 align="center">
 🚀 Full Stack Developer | Java Developer | DSA Enthusiast
-</h3>
+</h4>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+Backend+Developer;DSA+Problem+Solver;Node.js+%7C+Express.js;React+Developer;Future+Software+Engineer" />
