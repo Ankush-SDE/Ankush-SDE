@@ -41,7 +41,6 @@
 
 > Crack an SDE Internship and become a Software Engineer in a Product-Based Company.
 
----
 
 # 🛠️ Tech Stack
 
